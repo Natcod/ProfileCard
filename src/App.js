@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import cr7Image from "./img/cr7.jpg";
+import { exp } from "prelude-ls";
 
 export default function App() {
   const [zIndex, setZIndex] = useState(0);

@@ -30,6 +30,7 @@ code {
   background-color: #0f1d41;
   box-shadow: 0rem 0.2rem 0.1rem 0.2rem #0f1d41;
   overflow: visible;
+  align-self: start;
 }
 
 img {
